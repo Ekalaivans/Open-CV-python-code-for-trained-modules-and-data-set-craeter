@@ -1,0 +1,1 @@
+# Open-CV-python-code-for-trained-modules-and-data-set-craeter
